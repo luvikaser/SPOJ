@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1492398247 source:/home/cpu1-216-local/SPOJ/LQDBUS/LQDBUS.cpp
+	<iostream>
+	<climits>
+
